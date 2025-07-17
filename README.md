@@ -1,1 +1,2 @@
 # Oportunidades-en-las-finanzas-descentralizadas
+Las finanzas descentralizadas ofrecen nuevas formas de inversión. El yield farming genera altos rendimientos a corto plazo con más riesgos, mientras que el staking ofrece ingresos estables a largo plazo. Ambas opciones permiten acceder a inversiones globales sin intermediarios. Sin embargo, la falta de regulación y la volatilidad exigen una buena educación financiera.
